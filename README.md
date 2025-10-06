@@ -46,3 +46,10 @@ Check your `package.json` for the exact test command.
 - TypeScript for type safety.
 - Weather data is fetched from an external API.
 - Design focuses on simplicity and a calm user experience inspired by Japanese aesthetics.
+
+---
+
+## 5. Live Demo
+
+[View the deployed app on Vercel](https://weatherapp-steel-sigma.vercel.app/)
+
